@@ -1,4 +1,6 @@
 # SlingTabs
+[![Build Status](https://travis-ci.org/nispok/slidingtabs.svg?branch=master)](https://travis-ci.org/nispok/slidingtabs)
+
 Gradle port of Google's SlidingTabLayout to display a custom ViewPager title strip as used in
 [Google I/O Android App](https://github.com/google/iosched),
 [Android SlidingTabsBasic Sample](https://github.com/googlesamples/android-SlidingTabsBasic/), and
