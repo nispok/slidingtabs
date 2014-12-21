@@ -25,6 +25,10 @@ Although not using this library, the same code is used in:
 * [Android SlidingTabsBasic Sample](https://github.com/googlesamples/android-SlidingTabsBasic/)
 * [Android SlidingTabsColors Sample](https://github.com/googlesamples/android-SlidingTabsColors/)
 
+# Contributing
+All contributions are welcome. Open a [PR](https://github.com/nispok/slidingtabs/pulls) or refer to
+the [issues](https://github.com/nispok/slidingtabs/issues) section.
+
 # License
     Copyright 2014 William Mora
 
