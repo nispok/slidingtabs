@@ -7,10 +7,10 @@ Gradle port of Google's SlidingTabLayout to display a custom ViewPager title str
 [Android SlidingTabsColors Sample](https://github.com/googlesamples/android-SlidingTabsColors/). It
 has minor modifications to work from SDK 8
 
-<img src="./art/screenshot_1.png" style="width: 200px; height: 355px" />
-<img src="./art/screenshot_2.png" style="width: 200px; height: 355px" />
-<img src="./art/screenshot_3.png" style="width: 200px; height: 355px" />
-<img src="./art/screenshot_4.png" style="width: 200px; height: 355px" />
+<img src="./art/screenshot_1.png" width=200 height=355 />
+<img src="./art/screenshot_2.png" width=200 height=355 />
+<img src="./art/screenshot_3.png" width=200 height=355 />
+<img src="./art/screenshot_4.png" width=200 height=355 />
 
 # Installation
 You can import the library from source as a module or grab via Gradle:
