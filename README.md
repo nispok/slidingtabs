@@ -1,4 +1,4 @@
-# SlingTabs
+# SlidingTabs
 [![Build Status](https://travis-ci.org/nispok/slidingtabs.svg?branch=master)](https://travis-ci.org/nispok/slidingtabs) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SlidingTabs-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1253)
 
 Gradle port of Google's SlidingTabLayout to display a custom ViewPager title strip as used in
