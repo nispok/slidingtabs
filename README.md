@@ -24,6 +24,7 @@ Although not using this library, the same code is used in:
 * [Google I/O Android App](https://github.com/google/iosched)
 * [Android SlidingTabsBasic Sample](https://github.com/googlesamples/android-SlidingTabsBasic/)
 * [Android SlidingTabsColors Sample](https://github.com/googlesamples/android-SlidingTabsColors/)
+* [Imgurdroid](https://github.com/nispok/imgurdroid)
 
 # Contributing
 All contributions are welcome. Open a [PR](https://github.com/nispok/slidingtabs/pulls) or refer to
