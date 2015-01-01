@@ -31,7 +31,7 @@ All contributions are welcome. Open a [PR](https://github.com/nispok/slidingtabs
 the [issues](https://github.com/nispok/slidingtabs/issues) section.
 
 # License
-    Copyright 2014 William Mora
+    Copyright 2015 William Mora
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
