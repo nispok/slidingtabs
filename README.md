@@ -1,3 +1,8 @@
+# DEPRECATED
+This lib is deprecated in favor of Google's [Design Support Library](http://developer.android.com/tools/support-library/features.html#design) which includes a [TabLayout](https://developer.android.com/reference/android/support/design/widget/TabLayout.html) and is no longer being developed.
+
+Thanks for all your support!
+
 # SlidingTabs
 [![Build Status](https://travis-ci.org/nispok/slidingtabs.svg?branch=master)](https://travis-ci.org/nispok/slidingtabs) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SlidingTabs-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1253)
 
